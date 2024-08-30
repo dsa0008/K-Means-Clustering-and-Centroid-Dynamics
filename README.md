@@ -22,14 +22,7 @@ This project demonstrates how to fetch and load the Adult dataset (also known as
     pip install scikit-learn
     ```
 
-2. Clone the repository (if applicable):
-    ```bash
-    git clone https://github.com/username/repository.git
-    ```
-3. Navigate to the project directory:
-    ```bash
-    cd repository
-    ```
+
 
 ## Usage
 
